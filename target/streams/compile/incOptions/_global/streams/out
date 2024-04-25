@@ -1,0 +1,59 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Quan\Data Dashboard\target\scala-3.4.0\classes.bak
+[debug] About to delete class files:
+[debug] 	CSVParser.class
+[debug] 	ChartTools$$anon$3.class
+[debug] 	ChartTools$$anon$4.class
+[debug] 	ChartTools.class
+[debug] 	ChartTools$$anon$1.class
+[debug] 	ChartTools$$anon$2.class
+[debug] 	CSVParser$.class
+[debug] 	CardTools.class
+[debug] 	CardTools$$anon$1.class
+[debug] 	CSVParser.tasty
+[debug] 	ChartTools$$anon$3.tasty
+[debug] 	ChartTools$$anon$4.tasty
+[debug] 	ChartTools.tasty
+[debug] 	ChartTools$$anon$1.tasty
+[debug] 	ChartTools$$anon$2.tasty
+[debug] 	CSVParser$.tasty
+[debug] 	CardTools.tasty
+[debug] 	CardTools$$anon$1.tasty
+[debug] We backup class files:
+[debug] 	CSVParser.class
+[debug] 	ChartTools$$anon$3.class
+[debug] 	ChartTools$$anon$4.class
+[debug] 	ChartTools.class
+[debug] 	ChartTools$$anon$1.class
+[debug] 	ChartTools$$anon$2.class
+[debug] 	CSVParser$.class
+[debug] 	CardTools.class
+[debug] 	CardTools$$anon$1.class
+[debug] 	CSVParser.tasty
+[debug] 	ChartTools$$anon$3.tasty
+[debug] 	ChartTools$$anon$4.tasty
+[debug] 	ChartTools.tasty
+[debug] 	ChartTools$$anon$1.tasty
+[debug] 	ChartTools$$anon$2.tasty
+[debug] 	CSVParser$.tasty
+[debug] 	CardTools.tasty
+[debug] 	CardTools$$anon$1.tasty
+[debug] Registering generated classes:
+[debug] 	CSVParser.class
+[debug] 	ChartTools$$anon$3.class
+[debug] 	ChartTools$$anon$4.class
+[debug] 	ChartTools.class
+[debug] 	ChartTools$$anon$1.class
+[debug] 	ChartTools$$anon$2.class
+[debug] 	CSVParser$.class
+[debug] 	CardTools.class
+[debug] 	CardTools$$anon$1.class
+[debug] 	CSVParser.tasty
+[debug] 	ChartTools$$anon$3.tasty
+[debug] 	ChartTools$$anon$4.tasty
+[debug] 	ChartTools.tasty
+[debug] 	ChartTools$$anon$1.tasty
+[debug] 	ChartTools$$anon$2.tasty
+[debug] 	CSVParser$.tasty
+[debug] 	CardTools.tasty
+[debug] 	CardTools$$anon$1.tasty
+[debug] Removing the temporary directory used for backing up class files: C:\Quan\Data Dashboard\target\scala-3.4.0\classes.bak

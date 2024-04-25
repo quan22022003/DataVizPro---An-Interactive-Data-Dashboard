@@ -1,0 +1,9 @@
+[debug] > Exec(compile, None, None)
+[debug] Evaluating tasks: Compile / compile
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 15 Scala sources to C:\Quan\Data Dashboard\target\scala-3.3.1\classes ...
+[warn] there were 3 deprecation warnings; re-run with -deprecation for details
+[warn] one warning found
+[info] done compiling
+[success] Total time: 4 s, completed 16:54:05, 27 thg 3, 2024
+[debug] > Exec(idea-shell, None, None)

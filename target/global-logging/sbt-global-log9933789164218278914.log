@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(doc, Some(0c25acbd-e0ac-4678-bdd7-b10e3ed53ce0), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / doc[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 7 Scala sources to C:\Quan\Data Dashboard\target\scala-3.4.0\classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was 1 deprecation warning; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to C:\Quan\Data Dashboard\target\scala-3.4.0\api...[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: scalafx\src\main\scala\scalafx\scene\control\Dialog.scala:122:6 ----[0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mNo DRI found for query: IllegalStateException[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: scalafx\src\main\scala\scalafx\scene\control\Dialog.scala:135:6 ----[0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mNo DRI found for query: IllegalStateException[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: scalafx\src\main\scala\scalafx\scene\control\Dialog.scala:155:6 ----[0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mNo DRI found for query: Window[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 10 s, completed 04:04:49, 3 thg 4, 2024[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

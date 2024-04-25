@@ -1,0 +1,17 @@
+[debug] > Exec(doc, None, None)
+[debug] Evaluating tasks: Compile / doc
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 24 Scala sources to C:\Quan\Data Dashboard\target\scala-3.4.0\classes ...
+[warn] there were 2 deprecation warnings; re-run with -deprecation for details
+[warn] one warning found
+[info] done compiling
+[info] Main Scala API documentation to C:\Quan\Data Dashboard\target\scala-3.4.0\api...
+[warn] -- Warning: scalafx\src\main\scala\scalafx\scene\control\Dialog.scala:135:6 ----
+[warn] No DRI found for query: IllegalStateException
+[warn] -- Warning: scalafx\src\main\scala\scalafx\scene\control\Dialog.scala:155:6 ----
+[warn] No DRI found for query: Window
+[warn] -- Warning: scalafx\src\main\scala\scalafx\scene\control\Dialog.scala:122:6 ----
+[warn] No DRI found for query: IllegalStateException
+[info] Main Scala API documentation successful.
+[success] Total time: 18 s, completed 12:53:10, 14 thg 4, 2024
+[debug] > Exec(idea-shell, None, None)

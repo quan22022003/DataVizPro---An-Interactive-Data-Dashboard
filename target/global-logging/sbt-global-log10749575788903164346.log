@@ -1,0 +1,88 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.8.2 (Amazon.com Inc. Java 11.0.22)
+[debug] Load.defaultLoad until apply took 175.1079ms
+[debug]           Load.loadUnit: plugins took 199.9573ms
+[debug]           Load.loadUnit: defsScala took 1.582ms
+[debug] [Loading] Scanning directory C:\Users\trana\Downloads\data-visualization-programming-studio-a-master\data-visualization-programming-studio-a-master\project
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in C:\Users\trana\Downloads\data-visualization-programming-studio-a-master\data-visualization-programming-studio-a-master\project, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 31.5935 ms
+[debug]               Load.resolveProject(data-visualization-programming-studio-a-master-build) took 48.7531ms
+[debug]             Load.loadTransitive: finalizeProject(Project(id data-visualization-programming-studio-a-master-build, base: C:\Users\trana\Downloads\data-visualization-programming-studio-a-master\data-visualization-programming-studio-a-master\project, plugins: List(<none>))) took 136.6191ms
+[debug] [Loading] Done in C:\Users\trana\Downloads\data-visualization-programming-studio-a-master\data-visualization-programming-studio-a-master\project, returning: (data-visualization-programming-studio-a-master-build)
+[debug]           Load.loadUnit: loadedProjectsRaw took 173.3713ms
+[debug]           Load.loadUnit: cleanEvalClasses took 0.2056ms
+[debug]         Load.loadUnit(file:/C:/Users/trana/Downloads/data-visualization-programming-studio-a-master/data-visualization-programming-studio-a-master/project/, ...) took 400.0331ms
+[debug]       Load.apply: load took 582.479ms
+[debug]       Load.apply: resolveProjects took 6.9444ms
+[debug]       Load.apply: finalTransforms took 57.3173ms
+[debug]       Load.apply: config.delegates took 15.937ms
+[debug]       Load.apply: Def.make(settings)... took 562.2551ms
+[debug]       Load.apply: structureIndex took 145.8352ms
+[debug]       Load.apply: mkStreams took 4.9935ms
+[info] loading project definition from C:\Users\trana\Downloads\data-visualization-programming-studio-a-master\data-visualization-programming-studio-a-master\project
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug]     Load.loadUnit: plugins took 2369.1068ms
+[debug]     Load.loadUnit: defsScala took 0.0057ms
+[debug] [Loading] Scanning directory C:\Users\trana\Downloads\data-visualization-programming-studio-a-master\data-visualization-programming-studio-a-master
+[debug]       Load.loadUnit: mkEval took 5.935ms
+[debug] [Loading] Found root project root w/ remaining 
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 1.7635 ms
+[info] loading settings for project root from build.sbt ...
+[debug]         Load.resolveProject(root) took 3.8093ms
+[debug]       Load.loadTransitive: finalizeProject(Project(id root, base: C:\Users\trana\Downloads\data-visualization-programming-studio-a-master\data-visualization-programming-studio-a-master, plugins: List(<none>))) took 7.1219ms
+[debug] [Loading] Done in C:\Users\trana\Downloads\data-visualization-programming-studio-a-master\data-visualization-programming-studio-a-master, returning: (root)
+[debug]     Load.loadUnit: loadedProjectsRaw took 188.7305ms
+[debug]     Load.loadUnit: cleanEvalClasses took 6.9105ms
+[debug]   Load.loadUnit(file:/C:/Users/trana/Downloads/data-visualization-programming-studio-a-master/data-visualization-programming-studio-a-master/, ...) took 2567.1591ms
+[debug] Load.apply: load took 2596.7512ms
+[debug] Load.apply: resolveProjects took 0.1589ms
+[debug] Load.apply: finalTransforms took 9.3153ms
+[debug] Load.apply: config.delegates took 0.5599ms
+[debug] Load.apply: Def.make(settings)... took 67.0698ms
+[debug] Load.apply: structureIndex took 23.1611ms
+[debug] Load.apply: mkStreams took 0.0042ms
+[info] set current project to programming studio a project (in build file:/C:/Users/trana/Downloads/data-visualization-programming-studio-a-master/data-visualization-programming-studio-a-master/)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(notifyUsersAboutShell, None, None)
+[debug] > Exec(iflast shell, None, None)
+[debug] > Exec(shell, None, None)
+[info] sbt server started at local:sbt-server-d5fe402cae3ce3517262
+[debug] Writing bsp connection file
+[info] started sbt server
